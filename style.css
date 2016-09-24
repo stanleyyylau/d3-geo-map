@@ -25,3 +25,28 @@ body {
 svg {
     border: 1px solid white;
 }
+
+
+svg{
+  background-color: #266D98;
+}
+path {
+  /*stroke: white;*/
+  stroke-width: 0.25px;
+  /*fill: grey;*/
+}
+.show-if {
+    display: none;
+    background-color: rgba(156, 39, 176, 0.32);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    position: absolute;
+}
+
+.graph-title {
+    text-align: center;
+    color: white;
+    margin: 50px 0;
+}
